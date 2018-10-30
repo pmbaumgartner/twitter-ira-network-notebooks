@@ -1,0 +1,11 @@
+version: "3.2"
+services:
+  graph-tool:
+    image: tiagopeixoto/graph-tool
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/user
+    command: bash -c "jupyter notebook --ip 0.0.0.0"
+    user: user
+    working_dir: /home/user
