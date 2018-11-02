@@ -2,7 +2,7 @@
 
 ![retweets](https://image.ibb.co/mhv3nf/RT-map.png)
 
-_Edge map of retweets between accounts in the dataset._
+_Visualisation of retweets between accounts in the dataset._
 
 ## Summary
 This repository contains a few notebooks with some light commentary on using `graph-tool` for network analysis with the Twitter IRA Data. It's intended to serve as a reference for using data found "in the wild" and manipulating it for use in a network analysis context.
