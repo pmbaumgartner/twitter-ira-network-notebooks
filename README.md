@@ -13,3 +13,5 @@ Large scale network analysis is then completed using [graph-tool](https://graph-
 ## Running:
 - Grab the dataset (_Tweet information (1.24GB)_ / `ira_tweets_csv_hashed.zip`) from Twitter's Elections Integrity page here: https://about.twitter.com/en_us/values/elections-integrity.html#data. Extract the dataset to the `data` folder. 
 - `$ docker-compose up` is the quickest way to get a container with a jupyter notebook up and running. It will require you to have Docker installed.
+- I don't commit any of the intermediate data, so you'll have to run each notebook in sequence to generate the correct files.
+

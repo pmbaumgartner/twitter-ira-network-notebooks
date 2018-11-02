@@ -1,1 +1,1 @@
-Input (ira_tweets_csv_hashed.csv) and all output data goes here.
+Input (ira_tweets_csv_hashed.csv) and all intermediate and output data goes here.

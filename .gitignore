@@ -119,6 +119,7 @@ dmypy.json
 .ipython/
 .local/
 .DS_Store
+.jupyter/
 
 # None of the data for this project
 data/*
