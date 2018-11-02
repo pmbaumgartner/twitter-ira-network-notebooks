@@ -10,8 +10,11 @@ We use this archive of tweets to do a network analysis of the accounts related t
 
 Large scale network analysis is then completed using [graph-tool](https://graph-tool.skewed.de/). The graph-tool library has a unique API that might seem a little tricky at first, particularly if you're coming from using something like NetworkX for network analysis. However, once the fundamentals of the API are understood, graph-tool enables powerful analysis: it's typically much faster than NetworkX and the visualizations are much better. 
 
+## Viewing
+
+Sometimes GitHub doesn't want to render the notebooks, so go check them out on [nbviewer](http://nbviewer.jupyter.org/github/pmbaumgartner/twitter-ira-network-notebooks/tree/master/) instead.
+
 ## Running:
 - Grab the dataset (_Tweet information (1.24GB)_ / `ira_tweets_csv_hashed.zip`) from Twitter's Elections Integrity page here: https://about.twitter.com/en_us/values/elections-integrity.html#data. Extract the dataset to the `data` folder. 
 - `$ docker-compose up` is the quickest way to get a container with a jupyter notebook up and running. It will require you to have Docker installed.
 - I don't commit any of the intermediate data, so you'll have to run each notebook in sequence to generate the correct files.
-
