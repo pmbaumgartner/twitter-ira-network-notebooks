@@ -11,7 +11,7 @@ Notebooks:
 
 1. [Data Cleaning](http://nbviewer.jupyter.org/github/pmbaumgartner/twitter-ira-network-notebooks/blob/master/1.%20Data%20Cleaning.ipynb)
 2. [Graph Creation and Visualization](http://nbviewer.jupyter.org/github/pmbaumgartner/twitter-ira-network-notebooks/blob/master/2.%20Graph%20Creation%20and%20Visualization.ipynb)
-3. Stochastic Block Modeling (coming soon)
+3. [Stochastic Block Modeling](http://nbviewer.jupyter.org/github/pmbaumgartner/twitter-ira-network-notebooks/blob/master/3.%20Stochastic%20Block%20Modeling.ipynb)
 
 ## Dataset
 On October 16, 2018, Twitter released several large datasets of tweets and account information related to foreign influence of US elections. From Twitter's [Elections Integrity](https://about.twitter.com/en_us/values/elections-integrity.html) page:
